@@ -1,0 +1,6 @@
+.venv
+input
+out
+config.json
+
+*.log
